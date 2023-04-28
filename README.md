@@ -1,2 +1,2 @@
-# windows
-https://fergiamxss.github.io/windows/dist/
+# window
+https://fergiamxss.github.io/window/dist/
